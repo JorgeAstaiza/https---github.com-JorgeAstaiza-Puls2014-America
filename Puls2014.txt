@@ -4,6 +4,7 @@ Hosting barato normal --> /public_html/ <-- FTP
 	index.php
 	images
 	fuckencio.jpg
+www.aquiles.com
 
 SISTEMA DE CONTROL DE VERSIONES 
 
@@ -30,4 +31,3 @@ Repositorio de código GITHUB (master)
 			--- MERGE (experimental - master)
 		* experimental local
 	* master (servidor.com) REPO PRODUCCION
-
